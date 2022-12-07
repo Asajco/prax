@@ -21,7 +21,9 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Mám sa učiť laravel tak aby som vedel robiť všetko sám alebo stači ak budem chápať kódu</h1>
+
+        <h1>Mám sa učiť blady a ostatné veci, tak aby som to vedel sám, alebo stači len aby som chápal kód</h1>
+
 
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             @if (Route::has('login'))
